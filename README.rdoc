@@ -74,7 +74,7 @@ Include ckeditor javascripts:
 
 or (for rails 3.1):
 
-  <%= javascript_include_tag "/javascripts/ckeditor/ckeditor.js" %>
+  <%= javascript_include_tag "/ckeditor/ckeditor.js" %>
   
 Form helpers:
 
